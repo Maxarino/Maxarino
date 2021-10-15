@@ -3,7 +3,7 @@
 I'm Max, and I'm currently studying Computer Science at the University of Toronto Mississauga.
 
 ### What I'm working on lately
-- Hmm
+- I'm currently learning web development via React to create my own personal website.
 
 Thanks for checking out my GitHub page. Below you can find my contact info:
 
