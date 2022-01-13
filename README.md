@@ -3,7 +3,8 @@
 I'm Max, and I'm currently studying Computer Science at the University of Toronto Mississauga.
 
 ### What I'm working on lately
-- I'm currently learning web development via React to create my own personal website.
+- I'm learning web development via React.
+- I'm working on a tool which can visualize transactions between different wallets on the Ethereum Blockchain.
 
 Thanks for checking out my GitHub page. Below you can find my contact info:
 
