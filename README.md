@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Max
 
-I'm currently an SWE Intern at [Security Compass](https://www.securitycompass.com/), and I'm also studying Computer Science at the University of Toronto Mississauga.
+I'm currently a Software Engineer Intern at [Security Compass](https://www.securitycompass.com/), and I'm also studying Computer Science at the University of Toronto Mississauga.
 
 ### What I'm working on lately
 - I'm currently working on my React, Django, and other web development skills at my internship.
@@ -8,9 +8,9 @@ I'm currently an SWE Intern at [Security Compass](https://www.securitycompass.co
 
 Thanks for checking out my GitHub! Below you can find my contact info:
 
-[![LinkedIn](https://img.icons8.com/fluent/24/000000/linkedin.png) LinkedIn][linkedin]
-
-[![Email](https://img.icons8.com/ultraviolet/24/000000/email-open--v1.png) maxwell.borgeszulauf@mail.utoronto.ca][email]
-
-[linkedin]: https://www.linkedin.com/in/maxwellbz/
-[email]: mailto:maxwell.borgeszulauf@mail.utoronto.ca
+<a target="_blank" href="https://www.linkedin.com/in/maxwellbz">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
+</a>
+<a target="_blank" href="mailto:maxwell.borgeszulauf@mail.utoronto.ca">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img>
+</a>
