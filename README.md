@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Max
 
-I'm currently a Software Engineer Intern at [Security Compass](https://www.securitycompass.com/), and I'm also studying Computer Science at the University of Toronto Mississauga.
+Right now I'm a Software Engineer Intern at [Security Compass](https://www.securitycompass.com/), and I'm also studying Computer Science at the University of Toronto Mississauga.
 
 ### Languages:
 - Python
