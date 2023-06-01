@@ -1,16 +1,12 @@
 ## Hi there 👋, I'm Max
 
-Right now I'm a Software Engineer Intern at [Security Compass](https://www.securitycompass.com/), and I'm also studying Computer Science at the University of Toronto Mississauga.
+I'm a fourth-year Computer Science student at the University of Toronto Mississauga.
 
 ### Languages:
 - Python
 - JavaScript
 - Java
 - C
-
-### What I've been working on:
-- I'm currently working on my React, Django, and other web development skills at my internship.
-- I'm also working on a tool which can visualize transactions between different wallets on the Ethereum Blockchain.
 
 Thanks for checking out my GitHub! Below you can find my contact info:
 
