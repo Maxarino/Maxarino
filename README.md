@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Max
 
-I'm a fourth-year Computer Science student at the University of Toronto Mississauga.
+I'm a Computer Science graduate from the University of Toronto.
 
 ### Languages:
 - Python
