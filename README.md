@@ -2,10 +2,9 @@
 
 I'm a Computer Science graduate from the University of Toronto.
 
-### Languages:
+### Primary Languages:
 - Python
-- JavaScript
-- Java
+- JavaScript / TypeScript
 - C
 
 Thanks for checking out my GitHub! Below you can find my contact info:
